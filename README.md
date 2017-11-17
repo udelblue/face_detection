@@ -5,7 +5,7 @@ Face detection with python
 pip install opencv-python  
 
 # To Run  
-python face_detection.py 
-or 
-python face_detection1.py 
+python face_detection.py  
+or  
+python face_detection1.py  
 
