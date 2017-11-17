@@ -5,5 +5,7 @@ Face detection with python
 pip install opencv-python  
 
 # To Run  
-python face.py haarcascade_frontalface_alt.xml  
+python face_detection.py 
+or 
+python face_detection1.py 
 
